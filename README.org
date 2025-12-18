@@ -1,0 +1,9 @@
+* fold
+
+FOLD-LEFT and FOLD-RIGHT for Common Lisp.
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/jrm-code-project/fold.git |
+| commit  | d910a4e                                        |
+| systems | fold                                           |
+|---------+------------------------------------------------|
